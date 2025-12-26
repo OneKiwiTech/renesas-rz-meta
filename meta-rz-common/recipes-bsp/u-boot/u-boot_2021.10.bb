@@ -3,7 +3,7 @@ require u-boot.inc
 
 DEPENDS += "bc-native dtc-native"
 
-UBOOT_URL = "git://github.com/OneKiwTech/renesas-rz-uboot.git"
+UBOOT_URL = "git://github.com/OneKiwiTech/renesas-rz-uboot.git"
 BRANCH = "v2l-bsp-3.0.7"
 
 SRC_URI = "${UBOOT_URL};branch=${BRANCH}"

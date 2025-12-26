@@ -13,7 +13,7 @@ S = "${WORKDIR}/git"
 
 BRANCH = "v2l-bsp-3.0.7"
 
-SRC_URI = "git://github.com/OneKiwTech/renesas-rz-tfa.git;branch=${BRANCH};protocol=https"
+SRC_URI = "git://github.com/OneKiwiTech/renesas-rz-tfa.git;branch=${BRANCH};protocol=https"
 SRCREV = "${AUTOREV}"
 
 PV = "v2.9+git${SRCPV}"
