@@ -4,7 +4,7 @@ LIC_FILES_CHKSUM = " \
 	file://docs/license.rst;md5=b2c740efedc159745b9b31f88ff03dde \
 "
 
-URL = "git://github.com/OneKiwTech/renesas-rz-atf.git"
+URL = "git://github.com/OneKiwiTech/renesas-rz-atf.git"
 SRCREV = "${AUTOREV}"
 BRANCH = "v2h-sdk-v5.20"
 
